@@ -1,7 +1,7 @@
 # Cities API
 Esse projeto é um clone de um projeto desenvolvido dentro do bootcamp everis Quality Assurance Begginer.
 
-Assim que melhorar meus fundamentos em Java, tenho planos de personalizar o projeto adicinando alguns métodos http ou ainda desenvolver o frontend dessa aplicação.
+Assim que melhorar meus fundamentos em Java, tenho planos de personalizar o projeto adicionando alguns métodos http ou ainda desenvolver o frontend dessa aplicação.
 
 ## Requirements
 
